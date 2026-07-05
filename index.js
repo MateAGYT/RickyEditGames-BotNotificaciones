@@ -43,7 +43,7 @@ const client = new Client({
 const allowedUsers = ["893129394418229339", "1065297977767375009"];
 
 client.once("clientReady", () => {
-  console.log("Bot iniciado");
+  console.log("Bot iniciado!");
 });
 
 client.on("messageCreate", async (message) => {
