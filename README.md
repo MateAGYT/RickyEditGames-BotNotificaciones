@@ -8,6 +8,6 @@ Cabe recalcar que este código es **antigüo** y muy posiblemente desactualizado
 
 > 1. Código de la web: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-Web).
 > 2. Código de la web de mudanza: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-Mudanza).
-> 3. Código del bot general: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotGeneral)
+> 3. Código del bot general: [Haz click aquí](https://github.com/MateAGYT/RickyEditGames-BotGeneral).
 
 © Este código no ha sido protegido mediante el certificado de copyright de MateAG, es **totalmente libre de usar, modificar y distribuir**. ¡Disfrútalo!
